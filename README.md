@@ -42,7 +42,7 @@ A gauge chart was created to show the frequency of the test subject's belly butt
  
 ### Deliverable 4: Customize the Dashboard
 
-The following customizations was done on the webpage:
+The following customizations were done to the webpage:
 - Photo added to jumbotron.
 - Paragraph added to beginning to hold wording that was orginially in jumbotron and to explain to reseach participates how to use the webpage.
 - Colors were changed on the gauge and bubble chart to match the image in the jumbotron.
