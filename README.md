@@ -46,6 +46,6 @@ The following customizations were done to the webpage:
 - Photo added to jumbotron.
 - Paragraph added to beginning to hold wording that was orginially in jumbotron and to explain to reseach participates how to use the webpage.
 - Colors were changed on the gauge and bubble chart to match the image in the jumbotron.
-- Font color was changes and titles made bold. 
+- Font color were changed and titles made bold. 
 - Spacing was adjusted on the row containing the demographics, top 10 and gauge. 
 
