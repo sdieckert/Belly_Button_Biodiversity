@@ -1,0 +1,15 @@
+
+body{
+    color: #080808;
+/*  font-style:normal;*/
+    font-weight: 900;
+  }
+
+
+.jumbotron {
+    background-image: url("../images/Navelgazing.webp");
+    background-size: 100% 100%;
+    text-align: center;
+    color:white
+    
+  }  

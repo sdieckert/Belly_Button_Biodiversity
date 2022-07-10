@@ -1,1 +1,48 @@
 # Belly_Button_Biodiversity
+
+## Project Overview
+Create a webpage and dynamic filtering that allows research participants and research lab to look up participant samples by ID number and view what bacterial species was identified in their belly button swab sample. 
+
+Please view live web app here: 
+
+## Resources
+- Data Source: sampls.json
+- Software: Visual Studio, Chrome Developer Tools
+- Files: chart.js, style.css, index.html
+
+## Challenge Overview
+Four technical analysis deliverables:
+- Deliverable 1: Create a Horizontal Bar Chart
+- Deliverable 2: Create a Bubble Chart
+- Deliverable 3: Create a Gauge Chart
+- Deliverable 4: Customize the Dashboard
+
+## Results
+
+### Deliverable 1: Create a Horizontal Bar Chart
+A horizontal bar chart was created to show the top 10 bacterial samples found in the test subject ID that is selected in the drop down filter.
+
+<1>
+
+### Deliverable 2: Create a Bubble Chart
+
+A bubble chart was created to show all bacterial species found in the test subject ID that is selected in the drop down filters.
+
+<2>
+
+### Deliverable 3: Create a Gauge Chart
+
+A gauge chart was created to show the frequency of the test subject's belly button washings per week. 
+
+
+<3>
+ 
+### Deliverable 4: Customize the Dashboard
+
+The following customizations was done on the webpage:
+- Photo added to jumbotron
+- Paragraph added to beginning to hold wording that was orginially in jumbotron and to explain to reseach participates how to use the webpage.
+- Colors were changed on the gauge and bubble chart to match the image in the jumbotron.
+- Font color was changes and titles made bold. 
+- Spacing was adjusted on the row containing the demographics, top 10 and gauge. 
+
